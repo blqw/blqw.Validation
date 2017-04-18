@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blqw.Validation", "blqw.Validation\blqw.Validation.csproj", "{14311EAA-AE29-4794-A71C-91DA15DD08BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{740F3D95-1A7C-4558-9E97-EC0597B20FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14311EAA-AE29-4794-A71C-91DA15DD08BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14311EAA-AE29-4794-A71C-91DA15DD08BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14311EAA-AE29-4794-A71C-91DA15DD08BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14311EAA-AE29-4794-A71C-91DA15DD08BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740F3D95-1A7C-4558-9E97-EC0597B20FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740F3D95-1A7C-4558-9E97-EC0597B20FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740F3D95-1A7C-4558-9E97-EC0597B20FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740F3D95-1A7C-4558-9E97-EC0597B20FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
